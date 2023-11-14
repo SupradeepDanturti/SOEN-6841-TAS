@@ -1,3 +1,68 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{abrahamsson2017agile}
+Pekka Abrahamsson, Outi Salo, Jussi Ronkainen, and Juhani Warsta.
+\newblock Agile software development methods: Review and analysis.
+\newblock {\em arXiv preprint arXiv:1709.08439}, 2017.
+
+\bibitem{al2020impact}
+Abdulrahman Al-Surmi, Guangming Cao, and Yanqing Duan.
+\newblock The impact of aligning business, it, and marketing strategies on firm
+  performance.
+\newblock {\em Industrial marketing management}, 84:39--49, 2020.
+
+\bibitem{anzoategui2019endogenous}
+Diego Anzoategui, Diego Comin, Mark Gertler, and Joseba Martinez.
+\newblock Endogenous technology adoption and r\&d as sources of business cycle
+  persistence.
+\newblock {\em American Economic Journal: Macroeconomics}, 11(3):67--110, 2019.
+
+\bibitem{dube2020review}
+Thando Dube, Rene~Van Eck, and Tranos Zuva.
+\newblock Review of technology adoption models and theories to measure
+  readiness and acceptable use of technology in a business organization.
+\newblock {\em Journal of Information Technology and Digital World},
+  2(4):207--212, 2020.
+
+\bibitem{hayat2019influence}
+Faisal Hayat, Ammar~Ur Rehman, Khawaja~Sarmad Arif, Kanwal Wahab, and Muhammad
+  Abbas.
+\newblock The influence of agile methodology (scrum) on software project
+  management.
+\newblock In {\em 2019 20th IEEE/ACIS International Conference on Software
+  Engineering, Artificial Intelligence, Networking and Parallel/Distributed
+  Computing (SNPD)}, pages 145--149. IEEE, 2019.
+
+\bibitem{ilmudeen2019does}
+Aboobucker Ilmudeen, Yukun Bao, and Ibraheem~Mubarak Alharbi.
+\newblock How does business-it strategic alignment dimension impact on
+  organizational performance measures: Conjecture and empirical analysis.
+\newblock {\em Journal of Enterprise Information Management}, 32(3):457--476,
+  2019.
+
+\bibitem{parthasarthy2018impact}
+Raghavan Parthasarthy and S~Prakash Sethi.
+\newblock The impact of flexible automation on business strategy and
+  organizational structure.
+\newblock In {\em Organizational Innovation}, pages 319--344. Routledge, 2018.
+
+\bibitem{rahimi2016business}
+Fatemeh Rahimi, Charles M{\o}ller, and Lars Hvam.
+\newblock Business process management and it management: The missing
+  integration.
+\newblock {\em International Journal of Information Management},
+  36(1):142--154, 2016.
+
+\bibitem{sjodin2020agile}
+David Sj{\"o}din, Vinit Parida, Marko Kohtam{\"a}ki, and Joakim Wincent.
+\newblock An agile co-creation process for digital servitization: A
+  micro-service innovation approach.
+\newblock {\em Journal of Business Research}, 112:478--491, 2020.
+
+\bibitem{ullah2011modeling}
+Azmat Ullah and Richard Lai.
+\newblock Modeling business goal for business/it alignment using requirements
+  engineering.
+\newblock {\em Journal of Computer Information Systems}, 51(3):21--28, 2011.
 
 \end{thebibliography}
